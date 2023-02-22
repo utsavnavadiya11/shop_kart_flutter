@@ -1,6 +1,6 @@
 # shop_kart
 
-A new Flutter project.
+A Shopping app where user can buy product as well as they can sell their product.
 
 ## Getting Started
 
